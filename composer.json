@@ -7,8 +7,8 @@
         "laravel",
         "nova"
     ],
-        {
     "authors": [
+        {
             "name": "Krishan Koenig",
             "email": "krishan.koenig@googlemail.com"
         }
